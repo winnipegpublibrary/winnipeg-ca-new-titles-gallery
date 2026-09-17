@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-09-17T17:21:37.352Z",
+  "targets": [
+    {
+      "key": "fiction",
+      "ok": true,
+      "itemCount": 30
+    },
+    {
+      "key": "nonfiction",
+      "ok": true,
+      "itemCount": 30
+    },
+    {
+      "key": "biography",
+      "ok": true,
+      "itemCount": 19
+    },
+    {
+      "key": "mystery",
+      "ok": true,
+      "itemCount": 17
+    },
+    {
+      "key": "romance",
+      "ok": true,
+      "itemCount": 7
+    },
+    {
+      "key": "scifi",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inspirational",
+      "ok": true,
+      "itemCount": 30
+    },
+    {
+      "key": "genFiction",
+      "ok": true,
+      "itemCount": 30
+    },
+    {
+      "key": "graphicNovels",
+      "ok": true,
+      "itemCount": 30
+    },
+    {
+      "key": "largeType",
+      "ok": true,
+      "itemCount": 30
+    },
+    {
+      "key": "childrensFiction",
+      "ok": true,
+      "itemCount": 30
+    },
+    {
+      "key": "childrensNonfiction",
+      "ok": true,
+      "itemCount": 30
+    },
+    {
+      "key": "pictureBooks",
+      "ok": true,
+      "itemCount": 30
+    },
+    {
+      "key": "youngAdult",
+      "ok": true,
+      "itemCount": 30
+    },
+    {
+      "key": "audiobooks",
+      "ok": true,
+      "itemCount": 7
+    },
+    {
+      "key": "dvd",
+      "ok": true,
+      "itemCount": 0
+    },
+    {
+      "key": "musicCd",
+      "ok": true,
+      "itemCount": 0
+    },
+    {
+      "key": "videoGames",
+      "ok": true,
+      "itemCount": 0
+    },
+    {
+      "key": "graphicNovels:2",
+      "ok": true,
+      "itemCount": 30
+    },
+    {
+      "key": "largeType:2",
+      "ok": true,
+      "itemCount": 30
+    }
+  ]
+}
