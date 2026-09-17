@@ -37,7 +37,7 @@
 (function () {
   // Update this once the GitHub Pages site is live — something like
   // https://<org-or-user>.github.io/<repo>/data/new-titles.json
-  const DATA_URL = 'PASTE_YOUR_GITHUB_PAGES_DATA_URL_HERE';
+  const DATA_URL = 'https://winnipegpublibrary.github.io/winnipeg-ca-new-titles-gallery/data/new-titles.json';
   const SYNDETICS_CLIENT = 'winnip';
   const DEFAULT_COVER_HEIGHT = 180;
   const GAP_PX = 12;
