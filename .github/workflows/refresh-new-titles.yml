@@ -22,8 +22,7 @@ jobs:
           node-version: '20'
 
       - name: Fetch and parse new-titles feeds
-        run: node winnipeg-ca-fetch-new-titles.js
-
+        run: node winnipeg-ca-new-titles-gallery-fetch.js
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
