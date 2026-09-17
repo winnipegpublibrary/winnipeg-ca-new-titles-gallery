@@ -1,0 +1,154 @@
+/* Outer element (the one placed directly in page HTML). Laid out as
+   a row of [prev button][scrolling track][next button] side by side
+   in normal flex flow — this is what keeps the buttons genuinely
+   outside the cover area rather than overlapping it, since they're
+   never absolutely positioned on top of anything. */
+.nt-shelf-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  --nt-cover-height: 180px; /* overridden per-instance via data-height */
+}
+
+/* The actual horizontally-scrolling strip. Native scrollbar is
+   hidden — the arrow buttons are the primary visible navigation —
+   though the strip is still natively scrollable/swipeable
+   underneath for touch and trackpad use. */
+.nt-shelf {
+  flex: 1 1 auto;
+  min-width: 0; /* allows the flex item to shrink below content size, needed for overflow-x to actually work inside a flex row */
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+  padding: 8px 2px;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* legacy Edge/IE */
+}
+
+.nt-shelf::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, newer Edge */
+}
+
+.nt-shelf-item {
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+  display: block;
+}
+
+.nt-shelf-item img {
+  height: var(--nt-cover-height, 180px);
+  width: auto;
+  border-radius: 4px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.25);
+  display: block;
+}
+
+.nt-shelf-item:hover img {
+  outline: 2px solid #0056a3;
+  outline-offset: 2px;
+}
+
+/* Prev/next paging buttons — small circle with a bold chevron,
+   matching a typical native gallery control's proportions, built
+   without depending on any host-page CSS framework being present
+   (this widget runs on both LibGuides and Drupal pages with
+   different, or no, Bootstrap availability). */
+.nt-shelf-arrow {
+  flex: 0 0 auto;
+  width: 16px;
+  height: 16px;
+  border: none;
+  border-radius: 50%;
+  background: #4d4d4d;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  float: none;
+  position: static;
+  transition: opacity 0.15s ease, background-color 0.15s ease;
+}
+
+.nt-shelf-arrow svg {
+  display: block;
+  width: 13px;
+  height: 13px;
+}
+
+.nt-shelf-arrow:hover {
+  background: #333;
+}
+
+/* Hidden (rather than removed) when there's nothing further to
+   scroll to in that direction, or when the shelf's content doesn't
+   overflow at all — dimmed out visually. Paired with the button's
+   own `disabled` attribute (set in JS) rather than relying on this
+   styling alone: opacity/pointer-events hides it from the mouse but
+   does NOT remove it from the keyboard tab order or stop a keyboard
+   Enter/Space press from still activating it, which `disabled` does
+   properly. */
+.nt-shelf-arrow[data-hidden="true"] {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.nt-shelf-arrow:disabled {
+  cursor: default;
+}
+
+/* Skeleton placeholder shown while fetching — same height as a real
+   cover so the loading-to-loaded swap doesn't shift page content
+   below the widget. */
+.nt-skeleton-item {
+  flex: 0 0 auto;
+  width: 120px;
+  height: var(--nt-cover-height, 180px);
+  border-radius: 4px;
+  background: linear-gradient(90deg, #e2e2e2 25%, #efefef 37%, #e2e2e2 63%);
+  background-size: 400% 100%;
+  animation: nt-shimmer 1.4s ease infinite;
+}
+
+@keyframes nt-shimmer {
+  0% { background-position: 100% 50%; }
+  100% { background-position: 0 50%; }
+}
+
+.nt-spinner {
+  align-self: center;
+  width: 16px;
+  height: 16px;
+  border: 2px solid rgba(0,0,0,0.15);
+  border-top-color: rgba(0,0,0,0.45);
+  border-radius: 50%;
+  animation: nt-spin 0.8s linear infinite;
+  margin-left: 4px;
+}
+
+@keyframes nt-spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Unobtrusive failure/empty state — small and muted, not an alarming
+   error box, since a missing gallery shouldn't draw more attention
+   to itself than the content around it. */
+.nt-shelf-message {
+  font-size: 0.85em;
+  color: #767676;
+  padding: 6px 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .nt-skeleton-item,
+  .nt-spinner {
+    animation: none;
+  }
+  .nt-shelf {
+    scroll-behavior: auto;
+  }
+}
