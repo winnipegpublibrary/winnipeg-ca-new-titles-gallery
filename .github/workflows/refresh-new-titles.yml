@@ -1,0 +1,33 @@
+name: Refresh new titles data
+
+on:
+  schedule:
+    # Every 5 hours — just under the 6-hour "freshness" window we'd
+    # been using for caching under the old GAS proxy, so the data
+    # never feels meaningfully stale between runs.
+    - cron: '0 */5 * * *'
+  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab, for testing
+
+permissions:
+  contents: write # needed to commit the updated JSON back to the repo
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch and parse new-titles feeds
+        run: node fetch-new-titles.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/new-titles.json docs/data/status.json
+          git diff --staged --quiet || git commit -m "Refresh new titles data [automated]"
+          git push
