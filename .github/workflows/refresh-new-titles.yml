@@ -22,7 +22,7 @@ jobs:
           node-version: '20'
 
       - name: Fetch and parse new-titles feeds
-        run: node fetch-new-titles.js
+        run: node winnipeg-ca-fetch-new-titles.js
 
       - name: Commit updated data
         run: |
