@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T15:01:23.530Z",
+  "generatedAt": "2026-09-18T20:01:11.078Z",
   "lists": {
     "fiction": {
       "items": [
@@ -847,14 +847,14 @@
           "isbn": "9782749947204"
         },
         {
-          "title": "C&eacute;line apr&egrave;s Ren&eacute;e",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464487%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9782924888261"
-        },
-        {
           "title": "Anceline",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464494%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9782897838300"
+        },
+        {
+          "title": "C&eacute;line apr&egrave;s Ren&eacute;e",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464487%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9782924888261"
         },
         {
           "title": "Gens du nord : roman",
@@ -862,14 +862,14 @@
           "isbn": "9782072924316"
         },
         {
-          "title": "Je ne serai jamais Roy Dupuis",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464501%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9782764457122"
-        },
-        {
           "title": "Une pension en Italie : roman",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464511%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9782260056782"
+        },
+        {
+          "title": "Analyse-moi &ccedil;a!",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464620%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9782898672415"
         }
       ]
     },
@@ -1805,7 +1805,7 @@
           "isbn": "9798228915619"
         },
         {
-          "title": "The secrets we hide",
+          "title": "The secrets we hide [sound recording]",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464313%7EILS%7E0&ps=1000",
           "isbn": "9780063458833"
         },
@@ -1815,7 +1815,7 @@
           "isbn": "9780063488922"
         },
         {
-          "title": "The magic we made",
+          "title": "The magic we made [sound recording]",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464311%7EILS%7E0&ps=1000",
           "isbn": "9780063268470"
         },
