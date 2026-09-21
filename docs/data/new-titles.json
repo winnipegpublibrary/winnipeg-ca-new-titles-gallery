@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T15:01:09.551Z",
+  "generatedAt": "2026-09-21T20:01:12.466Z",
   "lists": {
     "fiction": {
       "items": [
@@ -456,14 +456,14 @@
           "isbn": "9782898114601"
         },
         {
-          "title": "L'homme aux mille peaux",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464633%7EILS%7E0&lm=MYSTERY&ps=1000",
-          "isbn": "9782762147421"
-        },
-        {
           "title": "No Shelter for the Wicked",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464939%7EILS%7E0&lm=MYSTERY&ps=1000",
           "isbn": "9781773241692"
+        },
+        {
+          "title": "L'homme aux mille peaux",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464633%7EILS%7E0&lm=MYSTERY&ps=1000",
+          "isbn": "9782762147421"
         },
         {
           "title": "Touche pas &agrave; mon cadavre",
@@ -525,14 +525,14 @@
           "isbn": "9782897928971"
         },
         {
+          "title": "Heated rivalry [&eacute;dition fran&ccedil;aise]",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464632%7EILS%7E0&lm=ROMANCE&ps=1000",
+          "isbn": "9782385793241"
+        },
+        {
           "title": "Le temps d'un &eacute;t&eacute; dor&eacute;",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464509%7EILS%7E0&lm=ROMANCE&ps=1000",
           "isbn": "9782925487289"
-        },
-        {
-          "title": "Heated rivalry",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464632%7EILS%7E0&lm=ROMANCE&ps=1000",
-          "isbn": "9782385793241"
         },
         {
           "title": "Yes, chef : a novel",
@@ -777,14 +777,14 @@
           "isbn": "9781668264263"
         },
         {
-          "title": "Un chien au milieu du chemin",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464514%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9782367322698"
-        },
-        {
           "title": "Puis je serai seul : r&eacute;cits et nouvelles",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464634%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9782764629130"
+        },
+        {
+          "title": "Un chien au milieu du chemin",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464514%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9782367322698"
         },
         {
           "title": "Bel-ami",
@@ -817,14 +817,14 @@
           "isbn": "9782898046483"
         },
         {
-          "title": "Les caprices de la brume",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464502%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9782898046124"
-        },
-        {
           "title": "Les disparitions : nouvelles",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464630%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9782925059462"
+        },
+        {
+          "title": "Les caprices de la brume",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464502%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9782898046124"
         },
         {
           "title": "Combustion libre",
@@ -1363,14 +1363,14 @@
           "isbn": "9781536257045"
         },
         {
-          "title": "Mighty Myths",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1463181%7EILS%7E0&ps=1000",
-          "isbn": "9781499819687"
-        },
-        {
           "title": "Reptiles up Close",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1463192%7EILS%7E0&ps=1000",
           "isbn": "9781835697771"
+        },
+        {
+          "title": "Mighty Myths",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1463181%7EILS%7E0&ps=1000",
+          "isbn": "9781499819687"
         },
         {
           "title": "Starting from Scratch (updated Edition) : What You Should Know about Food and Cooking",
