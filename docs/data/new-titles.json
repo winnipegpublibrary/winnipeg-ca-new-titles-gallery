@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:01:29.000Z",
+  "generatedAt": "2026-09-22T15:01:26.638Z",
   "lists": {
     "fiction": {
       "items": [
@@ -812,14 +812,14 @@
           "isbn": "9782757893272"
         },
         {
-          "title": "Vers la lumi&egrave;re",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464503%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9782898046483"
-        },
-        {
           "title": "Les disparitions : nouvelles",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464630%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9782925059462"
+        },
+        {
+          "title": "Vers la lumi&egrave;re",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464503%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9782898046483"
         },
         {
           "title": "Les caprices de la brume",
@@ -867,14 +867,14 @@
           "isbn": "9782072924316"
         },
         {
-          "title": "Je ne serai jamais Roy Dupuis",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464501%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9782764457122"
+          "title": "Le bien ne fait pas de bruit : roman",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464621%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9782764629277"
         },
         {
-          "title": "Une pension en Italie : roman",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464511%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9782260056782"
+          "title": "Le bonheur a la queue glissante",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464622%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9782892955033"
         }
       ]
     },

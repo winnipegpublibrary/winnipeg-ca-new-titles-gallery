@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:01:29.000Z",
+  "generatedAt": "2026-09-22T15:01:26.638Z",
   "targets": [
     {
       "key": "fiction",
@@ -38,9 +38,8 @@
     },
     {
       "key": "genFiction",
-      "ok": false,
-      "error": "TypeError: fetch failed",
-      "keptStale": true
+      "ok": true,
+      "itemCount": 30
     },
     {
       "key": "graphicNovels",
