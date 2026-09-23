@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T15:01:07.564Z",
+  "generatedAt": "2026-09-23T20:01:34.893Z",
   "lists": {
     "fiction": {
       "items": [
@@ -12,11 +12,6 @@
           "title": "Forbidden Caller",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464932%7EILS%7E0&ps=1000",
           "isbn": "9780800747275"
-        },
-        {
-          "title": "Ragged Trousered Philanthropists",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464702%7EILS%7E0&ps=1000",
-          "isbn": "9780007204502"
         },
         {
           "title": "Christmas Hourglass",
@@ -134,11 +129,6 @@
           "isbn": "9781964219363"
         },
         {
-          "title": "Pure Men : A Novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464940%7EILS%7E0&ps=1000",
-          "isbn": "9781635424706"
-        },
-        {
           "title": "Mad Hell-Rush of Days",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464696%7EILS%7E0&ps=1000",
           "isbn": "9781774391440"
@@ -149,19 +139,24 @@
           "isbn": "9780764246258"
         },
         {
-          "title": "Society of Second Chances",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464741%7EILS%7E0&ps=1000",
-          "isbn": "9781965860779"
+          "title": "Library of Forbidden Books : A Novel",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464936%7EILS%7E0&ps=1000",
+          "isbn": "9781400355815"
+        },
+        {
+          "title": "Coordinates of Death",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464721%7EILS%7E0&ps=1000",
+          "isbn": "9781335002747"
+        },
+        {
+          "title": "Palace Spy",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464735%7EILS%7E0&ps=1000",
+          "isbn": "9780764243714"
         }
       ]
     },
     "nonfiction": {
       "items": [
-        {
-          "title": "Fully Automated Luxury Communism",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464790%7EILS%7E0&ps=1000",
-          "isbn": "9781786632623"
-        },
         {
           "title": "World Almanac and Book of Facts 2027",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464716%7EILS%7E0&ps=1000",
@@ -306,6 +301,11 @@
           "title": "Elite Capture : How the Powerful Took over Identity Politics (and Everything Else)",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464784%7EILS%7E0&ps=1000",
           "isbn": "9781642597356"
+        },
+        {
+          "title": "At the Mind's Limits : Contemplations by a Survivor on Auschwitz and Its Realities",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464772%7EILS%7E0&ps=1000",
+          "isbn": "9780253211736"
         }
       ]
     },
@@ -426,11 +426,6 @@
           "isbn": "9781496746030"
         },
         {
-          "title": "Cold Granite (Logan Mcrae, Book 1)",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464924%7EILS%7E0&lm=MYSTERY&ps=1000",
-          "isbn": "9780007419449"
-        },
-        {
           "title": "Shatter the Bones (Logan Mcrae, Book 7)",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464942%7EILS%7E0&lm=MYSTERY&ps=1000",
           "isbn": "9780007344246"
@@ -484,6 +479,11 @@
           "title": "The family lawyer : thrillers",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464931%7EILS%7E0&lm=MYSTERY&ps=1000",
           "isbn": "9781538711330"
+        },
+        {
+          "title": "Cold granite",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464924%7EILS%7E0&lm=MYSTERY&ps=1000",
+          "isbn": "9780007419449"
         },
         {
           "title": "Hawai'i rage",
@@ -663,11 +663,6 @@
           "isbn": "9780764246258"
         },
         {
-          "title": "Society of Second Chances",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464741%7EILS%7E0&lm=INSPIRATIONAL&ps=1000",
-          "isbn": "9781965860779"
-        },
-        {
           "title": "Library of Forbidden Books : A Novel",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464936%7EILS%7E0&lm=INSPIRATIONAL&ps=1000",
           "isbn": "9781400355815"
@@ -721,16 +716,16 @@
           "title": "Fair Are the Meadows",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464723%7EILS%7E0&lm=INSPIRATIONAL&ps=1000",
           "isbn": "9780764243547"
+        },
+        {
+          "title": "Pride and Practicality : A Low-Spice, High-swoon Regency Rom-com",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464737%7EILS%7E0&lm=INSPIRATIONAL&ps=1000",
+          "isbn": "9780840717719"
         }
       ]
     },
     "genFiction": {
       "items": [
-        {
-          "title": "Ragged Trousered Philanthropists",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464702%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9780007204502"
-        },
         {
           "title": "Even the Birds",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464928%7EILS%7E0&lm=GENFICTION&ps=1000",
@@ -750,11 +745,6 @@
           "title": "Metal Mirror",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464698%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9781997544029"
-        },
-        {
-          "title": "Pure Men : A Novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464940%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9781635424706"
         },
         {
           "title": "Mad Hell-Rush of Days",
@@ -875,6 +865,16 @@
           "title": "Je ne serai jamais Roy Dupuis",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464501%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9782764457122"
+        },
+        {
+          "title": "Le bien ne fait pas de bruit : roman",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464621%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9782764629277"
+        },
+        {
+          "title": "Le bonheur a la queue glissante",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464622%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9782892955033"
         }
       ]
     },
