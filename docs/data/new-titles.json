@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T10:01:33.718Z",
+  "generatedAt": "2026-09-24T15:02:23.929Z",
   "lists": {
     "fiction": {
       "items": [
@@ -39,11 +39,6 @@
           "isbn": "9780571390441"
         },
         {
-          "title": "Lessons in Love",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464935%7EILS%7E0&ps=1000",
-          "isbn": "9798891514508"
-        },
-        {
           "title": "Christmas in Chestnut Crossing : Four Holiday Tales",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464922%7EILS%7E0&ps=1000",
           "isbn": "9781965860755"
@@ -52,6 +47,11 @@
           "title": "Even the Birds",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464928%7EILS%7E0&ps=1000",
           "isbn": "9781778491429"
+        },
+        {
+          "title": "Lessons in Love",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464935%7EILS%7E0&ps=1000",
+          "isbn": "9798891514508"
         },
         {
           "title": "Uncovered in Merriweather : Jane Austen in Wisconsin",
@@ -64,9 +64,14 @@
           "isbn": "9798988009726"
         },
         {
-          "title": "Not So Very Sensible",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464733%7EILS%7E0&ps=1000",
-          "isbn": "9798891514201"
+          "title": "Heart to Cherish",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464726%7EILS%7E0&ps=1000",
+          "isbn": "9781965860076"
+        },
+        {
+          "title": "Heart's Most Wanted",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464727%7EILS%7E0&ps=1000",
+          "isbn": "9780764246005"
         },
         {
           "title": "Sisterhood of Unlikely Friends",
@@ -74,19 +79,24 @@
           "isbn": "9780800746131"
         },
         {
-          "title": "Back Where We Started : A Novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464374%7EILS%7E0&ps=1000",
-          "isbn": "9780143138044"
-        },
-        {
           "title": "War-Torn Love",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464744%7EILS%7E0&ps=1000",
           "isbn": "9798891514478"
         },
         {
-          "title": "Heart's Most Wanted",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464727%7EILS%7E0&ps=1000",
-          "isbn": "9780764246005"
+          "title": "Metal Mirror",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464698%7EILS%7E0&ps=1000",
+          "isbn": "9781997544029"
+        },
+        {
+          "title": "Back Where We Started : A Novel",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464374%7EILS%7E0&ps=1000",
+          "isbn": "9780143138044"
+        },
+        {
+          "title": "Not So Very Sensible",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464733%7EILS%7E0&ps=1000",
+          "isbn": "9798891514201"
         },
         {
           "title": "Throne of the Heavens",
@@ -99,16 +109,6 @@
           "isbn": "9781668052969"
         },
         {
-          "title": "Heart to Cherish",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464726%7EILS%7E0&ps=1000",
-          "isbn": "9781965860076"
-        },
-        {
-          "title": "Metal Mirror",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464698%7EILS%7E0&ps=1000",
-          "isbn": "9781997544029"
-        },
-        {
           "title": "Yada Yada Prayer Group Gets Caught",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464946%7EILS%7E0&ps=1000",
           "isbn": "9781401689872"
@@ -117,6 +117,11 @@
           "title": "Yada Yada Prayer Group Gets Rolling",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464947%7EILS%7E0&ps=1000",
           "isbn": "9781401689889"
+        },
+        {
+          "title": "Mad Hell-Rush of Days",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464696%7EILS%7E0&ps=1000",
+          "isbn": "9781774391440"
         },
         {
           "title": "Resurrection of Evania James",
@@ -134,9 +139,9 @@
           "isbn": "9781964219363"
         },
         {
-          "title": "Mad Hell-Rush of Days",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464696%7EILS%7E0&ps=1000",
-          "isbn": "9781774391440"
+          "title": "Coordinates of Death",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464721%7EILS%7E0&ps=1000",
+          "isbn": "9781335002747"
         },
         {
           "title": "Palace Spy",
@@ -144,14 +149,9 @@
           "isbn": "9780764243714"
         },
         {
-          "title": "Library of Forbidden Books : A Novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464936%7EILS%7E0&ps=1000",
-          "isbn": "9781400355815"
-        },
-        {
-          "title": "Coordinates of Death",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464721%7EILS%7E0&ps=1000",
-          "isbn": "9781335002747"
+          "title": "Castle of Sand",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464719%7EILS%7E0&ps=1000",
+          "isbn": "9798891512726"
         }
       ]
     },
