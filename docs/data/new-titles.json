@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T15:02:38.379Z",
+  "generatedAt": "2026-09-25T20:01:18.181Z",
   "lists": {
     "fiction": {
       "items": [
@@ -7,11 +7,6 @@
           "title": "Where the Wildflowers Grow (Deluxe Edition) : A Novel",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464383%7EILS%7E0&ps=1000",
           "isbn": "9781464229237"
-        },
-        {
-          "title": "Forbidden Caller",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464932%7EILS%7E0&ps=1000",
-          "isbn": "9780800747275"
         },
         {
           "title": "Christmas Hourglass",
@@ -109,11 +104,6 @@
           "isbn": "9780764238949"
         },
         {
-          "title": "Yada Yada Prayer Group Gets Caught",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464946%7EILS%7E0&ps=1000",
-          "isbn": "9781401689872"
-        },
-        {
           "title": "Yada Yada Prayer Group Gets Rolling",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464947%7EILS%7E0&ps=1000",
           "isbn": "9781401689889"
@@ -152,6 +142,16 @@
           "title": "Palace Spy",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464735%7EILS%7E0&ps=1000",
           "isbn": "9780764243714"
+        },
+        {
+          "title": "Library of Forbidden Books : A Novel",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464936%7EILS%7E0&ps=1000",
+          "isbn": "9781400355815"
+        },
+        {
+          "title": "Blind Eye",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464919%7EILS%7E0&ps=1000",
+          "isbn": "9780007342570"
         }
       ]
     },
@@ -211,11 +211,6 @@
           "title": "Weird Buildings",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1463423%7EILS%7E0&ps=1000",
           "isbn": "9781914314896"
-        },
-        {
-          "title": "Holodomor : Understanding the Great Famine of 1932-1934 in Soviet Ukraine",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464949%7EILS%7E0&ps=1000",
-          "isbn": "9781998658633"
         },
         {
           "title": "Essays on Antisemitism, Anti-Zionism, and the Left",
@@ -278,11 +273,6 @@
           "isbn": "9781449420208"
         },
         {
-          "title": "Triumph of Fear : Domestic Surveillance and Political Repression from Mckinley to Eisenhower",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464813%7EILS%7E0&ps=1000",
-          "isbn": "9781647125455"
-        },
-        {
           "title": "Clean up on Aisle Stupid : A Get Fuzzy Collection",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464780%7EILS%7E0&ps=1000",
           "isbn": "9781449462949"
@@ -306,6 +296,16 @@
           "title": "At the Mind's Limits : Contemplations by a Survivor on Auschwitz and Its Realities",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464772%7EILS%7E0&ps=1000",
           "isbn": "9780253211736"
+        },
+        {
+          "title": "Tragedy of a Generation : The Rise and Fall of Jewish Nationalism in Eastern Europe",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464810%7EILS%7E0&ps=1000",
+          "isbn": "9780674072855"
+        },
+        {
+          "title": "Crying on the Kitchen Floor : A Memoir",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1463358%7EILS%7E0&ps=1000",
+          "isbn": "9781538781173"
         }
       ]
     },
@@ -390,6 +390,11 @@
           "title": "First lady of murder : Ann Rule's life, legacy, and the serial killer she called friend",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464787%7EILS%7E0&lm=BIOGRAPHY&ps=1000",
           "isbn": "9781970361278"
+        },
+        {
+          "title": "Anahareo : a wilderness spirit",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1463338%7EILS%7E0&lm=BIOGRAPHY&ps=1000",
+          "isbn": "9781738423729"
         },
         {
           "title": "Riding the bus with my sister : a true life journey",
@@ -573,11 +578,6 @@
     "inspirational": {
       "items": [
         {
-          "title": "Forbidden Caller",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464932%7EILS%7E0&lm=INSPIRATIONAL&ps=1000",
-          "isbn": "9780800747275"
-        },
-        {
           "title": "Christmas Hourglass",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464921%7EILS%7E0&lm=INSPIRATIONAL&ps=1000",
           "isbn": "9781496754295"
@@ -636,11 +636,6 @@
           "title": "Throne of the Heavens",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464944%7EILS%7E0&lm=INSPIRATIONAL&ps=1000",
           "isbn": "9780764238949"
-        },
-        {
-          "title": "Yada Yada Prayer Group Gets Caught",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464946%7EILS%7E0&lm=INSPIRATIONAL&ps=1000",
-          "isbn": "9781401689872"
         },
         {
           "title": "Yada Yada Prayer Group Gets Rolling",
@@ -721,6 +716,16 @@
           "title": "Pride and Practicality : A Low-Spice, High-swoon Regency Rom-com",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464737%7EILS%7E0&lm=INSPIRATIONAL&ps=1000",
           "isbn": "9780840717719"
+        },
+        {
+          "title": "Deadly Charade",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464722%7EILS%7E0&lm=INSPIRATIONAL&ps=1000",
+          "isbn": "9780800747640"
+        },
+        {
+          "title": "Falling into Us : A Heartwarming, Low-Spice Contemporary Romance",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464724%7EILS%7E0&lm=INSPIRATIONAL&ps=1000",
+          "isbn": "9781400348770"
         }
       ]
     },
