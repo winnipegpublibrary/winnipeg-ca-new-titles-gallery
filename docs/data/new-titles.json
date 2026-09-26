@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:00:57.834Z",
+  "generatedAt": "2026-09-26T15:01:06.070Z",
   "lists": {
     "fiction": {
       "items": [
@@ -456,14 +456,14 @@
           "isbn": "9782898114601"
         },
         {
-          "title": "L'homme aux mille peaux",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464633%7EILS%7E0&lm=MYSTERY&ps=1000",
-          "isbn": "9782762147421"
-        },
-        {
           "title": "No Shelter for the Wicked",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464939%7EILS%7E0&lm=MYSTERY&ps=1000",
           "isbn": "9781773241692"
+        },
+        {
+          "title": "L'homme aux mille peaux",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1464633%7EILS%7E0&lm=MYSTERY&ps=1000",
+          "isbn": "9782762147421"
         },
         {
           "title": "Touche pas &agrave; mon cadavre",
