@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T05:02:46.437Z",
+  "generatedAt": "2026-10-01T10:04:07.738Z",
   "targets": [
     {
       "key": "fiction",
@@ -14,27 +14,27 @@
     {
       "key": "biography",
       "ok": true,
-      "itemCount": 20
+      "itemCount": 9
     },
     {
       "key": "mystery",
       "ok": true,
-      "itemCount": 17
+      "itemCount": 30
     },
     {
       "key": "romance",
       "ok": true,
-      "itemCount": 8
+      "itemCount": 16
     },
     {
       "key": "scifi",
       "ok": true,
-      "itemCount": 5
+      "itemCount": 30
     },
     {
       "key": "inspirational",
       "ok": true,
-      "itemCount": 30
+      "itemCount": 4
     },
     {
       "key": "genFiction",
@@ -54,12 +54,12 @@
     {
       "key": "childrensFiction",
       "ok": true,
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "key": "childrensNonfiction",
       "ok": true,
-      "itemCount": 30
+      "itemCount": 5
     },
     {
       "key": "pictureBooks",
@@ -69,7 +69,7 @@
     {
       "key": "youngAdult",
       "ok": true,
-      "itemCount": 30
+      "itemCount": 18
     },
     {
       "key": "audiobooks",
@@ -79,7 +79,7 @@
     {
       "key": "dvd",
       "ok": true,
-      "itemCount": 0
+      "itemCount": 5
     },
     {
       "key": "musicCd",
