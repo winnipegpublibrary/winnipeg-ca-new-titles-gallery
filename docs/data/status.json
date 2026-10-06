@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T05:02:50.391Z",
+  "generatedAt": "2026-10-06T10:03:19.828Z",
   "targets": [
     {
       "key": "fiction",
@@ -33,8 +33,9 @@
     },
     {
       "key": "inspirational",
-      "ok": true,
-      "itemCount": 4
+      "ok": false,
+      "error": "TypeError: fetch failed",
+      "keptStale": true
     },
     {
       "key": "genFiction",
@@ -68,8 +69,9 @@
     },
     {
       "key": "youngAdult",
-      "ok": true,
-      "itemCount": 18
+      "ok": false,
+      "error": "TypeError: fetch failed",
+      "keptStale": true
     },
     {
       "key": "audiobooks",
@@ -88,8 +90,9 @@
     },
     {
       "key": "videoGames",
-      "ok": true,
-      "itemCount": 0
+      "ok": false,
+      "error": "TypeError: fetch failed",
+      "keptStale": true
     },
     {
       "key": "graphicNovels:2",
