@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T00:01:28.925Z",
+  "generatedAt": "2026-10-08T05:03:43.426Z",
   "lists": {
     "fiction": {
       "items": [
@@ -54,14 +54,14 @@
           "isbn": "9781951971571"
         },
         {
-          "title": "Range",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465820%7EILS%7E0&ps=1000",
-          "isbn": "9781644454046"
-        },
-        {
           "title": "Wolves of War",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465829%7EILS%7E0&ps=1000",
           "isbn": "9780316595001"
+        },
+        {
+          "title": "Range",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465820%7EILS%7E0&ps=1000",
+          "isbn": "9781644454046"
         },
         {
           "title": "River's Daughter",
@@ -208,6 +208,11 @@
           "isbn": "9780415968188"
         },
         {
+          "title": "Data to AI Decisions : Oracle Analytics for Business Insights",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465549%7EILS%7E0&ps=1000",
+          "isbn": "9780135498859"
+        },
+        {
           "title": "AI-Powered Digital Cyber Resilience",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465531%7EILS%7E0&ps=1000",
           "isbn": "9780135408605"
@@ -216,11 +221,6 @@
           "title": "Enterprise AI Productivity : Success Beyond the Hype",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465555%7EILS%7E0&ps=1000",
           "isbn": "9780135474426"
-        },
-        {
-          "title": "Data to AI Decisions : Oracle Analytics for Business Insights",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465549%7EILS%7E0&ps=1000",
-          "isbn": "9780135498859"
         },
         {
           "title": "Evolution of Fire",
@@ -912,6 +912,11 @@
           "isbn": "9781631493294"
         },
         {
+          "title": "Sometimes I Scare Myself : A Collection of Horror",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465825%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9798212182881"
+        },
+        {
           "title": "Salt King",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465821%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9781639737291"
@@ -920,11 +925,6 @@
           "title": "Atomic Coffin",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465376%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9781668214503"
-        },
-        {
-          "title": "Sometimes I Scare Myself : A Collection of Horror",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465825%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9798212182881"
         }
       ]
     },
@@ -1502,14 +1502,14 @@
           "isbn": "9782898370151"
         },
         {
-          "title": "Les pansements invisibles",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466176%7EILS%7E0&ps=1000",
-          "isbn": "9791037514103"
-        },
-        {
           "title": "Ouille, ouille, ouille!",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465500%7EILS%7E0&ps=1000",
           "isbn": "9782898370113"
+        },
+        {
+          "title": "Les pansements invisibles",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466176%7EILS%7E0&ps=1000",
+          "isbn": "9791037514103"
         },
         {
           "title": "Bonne f&ecirc;te R&eacute;mi",
