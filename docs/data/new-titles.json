@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:02:16.631Z",
+  "generatedAt": "2026-10-10T05:02:41.707Z",
   "lists": {
     "fiction": {
       "items": [
@@ -228,14 +228,14 @@
           "isbn": "9781250437563"
         },
         {
-          "title": "Rick Steves Pocket Paris",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465180%7EILS%7E0&ps=1000",
-          "isbn": "9781641717250"
-        },
-        {
           "title": "The Unofficial Guide to Disneyland 2027",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465215%7EILS%7E0&ps=1000",
           "isbn": "9781628091748"
+        },
+        {
+          "title": "Rick Steves Pocket Paris",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465180%7EILS%7E0&ps=1000",
+          "isbn": "9781641717250"
         },
         {
           "title": "Linux Applications Development by Example : The Fundamental APIs",
@@ -278,6 +278,11 @@
           "isbn": "9781517909345"
         },
         {
+          "title": "Never Worry about Money Again : By Answering One Question",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465584%7EILS%7E0&ps=1000",
+          "isbn": "9798992872903"
+        },
+        {
           "title": "Spain: Seville",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465185%7EILS%7E0&ps=1000",
           "isbn": "9781804693896"
@@ -286,11 +291,6 @@
           "title": "Germany",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465192%7EILS%7E0&ps=1000",
           "isbn": "9781835296332"
-        },
-        {
-          "title": "Never Worry about Money Again : By Answering One Question",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465584%7EILS%7E0&ps=1000",
-          "isbn": "9798992872903"
         },
         {
           "title": "Counterrevolution : The Fall and Rise of Donald Trump and the MAGA Movement",
