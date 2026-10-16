@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:06:29.609Z",
+  "generatedAt": "2026-10-16T05:16:31.480Z",
   "targets": [
     {
       "key": "fiction",
@@ -13,8 +13,9 @@
     },
     {
       "key": "biography",
-      "ok": true,
-      "itemCount": 9
+      "ok": false,
+      "error": "TypeError: fetch failed",
+      "keptStale": true
     },
     {
       "key": "mystery",
