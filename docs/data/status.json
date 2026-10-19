@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T10:21:21.077Z",
+  "generatedAt": "2026-10-19T20:16:10.710Z",
   "targets": [
     {
       "key": "fiction",
@@ -54,7 +54,7 @@
     {
       "key": "childrensFiction",
       "ok": true,
-      "itemCount": 29
+      "itemCount": 30
     },
     {
       "key": "childrensNonfiction",
