@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T14:43:16.458Z",
+  "generatedAt": "2026-10-22T18:54:24.950Z",
   "targets": [
     {
       "key": "fiction",
@@ -24,7 +24,7 @@
     {
       "key": "romance",
       "ok": true,
-      "itemCount": 16
+      "itemCount": 17
     },
     {
       "key": "scifi",
