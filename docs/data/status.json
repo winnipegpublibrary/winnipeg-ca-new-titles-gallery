@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T22:01:32.494Z",
+  "generatedAt": "2026-10-25T01:53:19.645Z",
   "targets": [
     {
       "key": "fiction",
@@ -28,9 +28,8 @@
     },
     {
       "key": "scifi",
-      "ok": false,
-      "error": "TypeError: fetch failed",
-      "keptStale": true
+      "ok": true,
+      "itemCount": 30
     },
     {
       "key": "inspirational",
@@ -89,9 +88,8 @@
     },
     {
       "key": "videoGames",
-      "ok": false,
-      "error": "TypeError: fetch failed",
-      "keptStale": true
+      "ok": true,
+      "itemCount": 0
     },
     {
       "key": "graphicNovels:2",
