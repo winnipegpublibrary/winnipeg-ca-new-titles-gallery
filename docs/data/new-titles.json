@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T01:55:10.223Z",
+  "generatedAt": "2026-10-26T10:35:45.745Z",
   "lists": {
     "fiction": {
       "items": [
@@ -471,14 +471,14 @@
           "isbn": "9781773241739"
         },
         {
-          "title": "Les derniers mandarins",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465350%7EILS%7E0&lm=MYSTERY&ps=1000",
-          "isbn": "9782898114366"
-        },
-        {
           "title": "La biblioth&egrave;que secr&egrave;te",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465341%7EILS%7E0&lm=MYSTERY&ps=1000",
           "isbn": "9782898114618"
+        },
+        {
+          "title": "Les derniers mandarins",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465350%7EILS%7E0&lm=MYSTERY&ps=1000",
+          "isbn": "9782898114366"
         },
         {
           "title": "Le code de Katharina",
@@ -491,14 +491,14 @@
           "isbn": "9782073087614"
         },
         {
-          "title": "La chambre du fils",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465345%7EILS%7E0&lm=MYSTERY&ps=1000",
-          "isbn": "9782073044327"
-        },
-        {
           "title": "Le disparu de Larvik",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465354%7EILS%7E0&lm=MYSTERY&ps=1000",
           "isbn": "9782073022219"
+        },
+        {
+          "title": "La chambre du fils",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465345%7EILS%7E0&lm=MYSTERY&ps=1000",
+          "isbn": "9782073044327"
         },
         {
           "title": "Persons of interest",
@@ -1685,14 +1685,14 @@
           "isbn": "9798217535125"
         },
         {
-          "title": "The witches of Cambridge",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465626%7EILS%7E0&ps=1000",
-          "isbn": "9781668169292"
-        },
-        {
           "title": "Miss Wolcott's ghost : a novel",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465622%7EILS%7E0&ps=1000",
           "isbn": "9781250476111"
+        },
+        {
+          "title": "The witches of Cambridge",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465626%7EILS%7E0&ps=1000",
+          "isbn": "9781668169292"
         },
         {
           "title": "Taipei story [sound recording] : a novel",
