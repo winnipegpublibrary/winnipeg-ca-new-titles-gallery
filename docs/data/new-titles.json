@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T10:35:45.745Z",
+  "generatedAt": "2026-10-26T20:12:10.898Z",
   "lists": {
     "fiction": {
       "items": [
@@ -1497,11 +1497,6 @@
           "isbn": "9782215189831"
         },
         {
-          "title": "Pok&eacute;mon : 6 histoires de 5 minutes / Christy Webster ; texte fran&ccedil;ais du Groupe Syntagm",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465504%7EILS%7E0&ps=1000",
-          "isbn": "9781039714663"
-        },
-        {
           "title": "Les bact&eacute;ries de Mamie",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465505%7EILS%7E0&ps=1000",
           "isbn": "9782898370151"
@@ -1515,6 +1510,11 @@
           "title": "Bonne f&ecirc;te R&eacute;mi",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465479%7EILS%7E0&ps=1000",
           "isbn": "9782891449601"
+        },
+        {
+          "title": "Pok&eacute;mon : 6 histoires de 5 minutes / Christy Webster ; texte fran&ccedil;ais du Groupe Syntagme",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465504%7EILS%7E0&ps=1000",
+          "isbn": "9781039714663"
         },
         {
           "title": "Ouille, ouille, ouille!",
