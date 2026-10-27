@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T19:42:48.296Z",
+  "generatedAt": "2026-10-27T23:16:22.580Z",
   "targets": [
     {
       "key": "fiction",
@@ -73,8 +73,9 @@
     },
     {
       "key": "audiobooks",
-      "ok": true,
-      "itemCount": 7
+      "ok": false,
+      "error": "TypeError: fetch failed",
+      "keptStale": true
     },
     {
       "key": "dvd",
