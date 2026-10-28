@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:52:21.473Z",
+  "generatedAt": "2026-10-28T19:55:51.183Z",
   "lists": {
     "fiction": {
       "items": [
@@ -44,14 +44,14 @@
           "isbn": "9780316581943"
         },
         {
-          "title": "Bruja's Nest",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465380%7EILS%7E0&ps=1000",
-          "isbn": "9781951971571"
-        },
-        {
           "title": "Wolves of War",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465829%7EILS%7E0&ps=1000",
           "isbn": "9780316595001"
+        },
+        {
+          "title": "Bruja's Nest",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465380%7EILS%7E0&ps=1000",
+          "isbn": "9781951971571"
         },
         {
           "title": "River's Daughter",
@@ -97,11 +97,6 @@
           "title": "Tales of Pirx the Pilot",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465303%7EILS%7E0&ps=1000",
           "isbn": "9780156881500"
-        },
-        {
-          "title": "Museum of Lost Dreams : A Novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465965%7EILS%7E0&ps=1000",
-          "isbn": "9781662534263"
         },
         {
           "title": "Best Canadian Stories 2027",
@@ -152,6 +147,11 @@
           "title": "Futurological Congress : From the Memoirs of Ijon Tichy",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465280%7EILS%7E0&ps=1000",
           "isbn": "9780156340403"
+        },
+        {
+          "title": "Voidverse",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465304%7EILS%7E0&ps=1000",
+          "isbn": "9781668065600"
         }
       ]
     },
@@ -446,14 +446,14 @@
           "isbn": "9781250214362"
         },
         {
-          "title": "Off the mark",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465397%7EILS%7E0&lm=MYSTERY&ps=1000",
-          "isbn": "9781773241739"
-        },
-        {
           "title": "Le sixi&egrave;me sens",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465362%7EILS%7E0&lm=MYSTERY&ps=1000",
           "isbn": "9782357209794"
+        },
+        {
+          "title": "Off the mark",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465397%7EILS%7E0&lm=MYSTERY&ps=1000",
+          "isbn": "9781773241739"
         },
         {
           "title": "La biblioth&egrave;que secr&egrave;te",
@@ -540,11 +540,6 @@
           "isbn": "9780143139324"
         },
         {
-          "title": "I Haunt It That Way : A Spicy Spooky Fall Enemies to Lovers Romance",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465812%7EILS%7E0&lm=ROMANCE&ps=1000",
-          "isbn": "9781335507402"
-        },
-        {
           "title": "Pride Comes Before a Fall : A Novel",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465968%7EILS%7E0&lm=ROMANCE&ps=1000",
           "isbn": "9781250896117"
@@ -563,6 +558,11 @@
           "title": "Assez pour &ecirc;tre aim&eacute;e",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465340%7EILS%7E0&lm=ROMANCE&ps=1000",
           "isbn": "9782898322945"
+        },
+        {
+          "title": "I haunt it that way",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465812%7EILS%7E0&lm=ROMANCE&ps=1000",
+          "isbn": "9781335507402"
         },
         {
           "title": "Awkwardly ever after : a novel",
@@ -684,11 +684,6 @@
           "isbn": "9780756421502"
         },
         {
-          "title": "Swallowing Darkness : A Novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465795%7EILS%7E0&lm=SCIFI&ps=1000",
-          "isbn": "9780345495945"
-        },
-        {
           "title": "Forever Dead",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465783%7EILS%7E0&lm=SCIFI&ps=1000",
           "isbn": "9781984820587"
@@ -752,6 +747,11 @@
           "title": "The star diaries",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465302%7EILS%7E0&lm=SCIFI&ps=1000",
           "isbn": "9780156849050"
+        },
+        {
+          "title": "The Ringworld engineers",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465299%7EILS%7E0&lm=SCIFI&ps=1000",
+          "isbn": "9780345334305"
         }
       ]
     },
@@ -822,11 +822,6 @@
           "isbn": "9781250781529"
         },
         {
-          "title": "Museum of Lost Dreams : A Novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465965%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9781662534263"
-        },
-        {
           "title": "Best Canadian Stories 2027",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465378%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9781771967426"
@@ -892,11 +887,6 @@
           "isbn": "9780385339582"
         },
         {
-          "title": "She Isn't Herself Tonight : A Novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465402%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9781668077122"
-        },
-        {
           "title": "Body Language : A Novel",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465802%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9780385551755"
@@ -930,6 +920,16 @@
           "title": "Midwife",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465963%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9781529066838"
+        },
+        {
+          "title": "Bouquets meurtris : nouvelles",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465351%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9782925452171"
+        },
+        {
+          "title": "Offseason : a novel",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465817%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9781662603501"
         }
       ]
     },
@@ -1651,11 +1651,6 @@
           "isbn": "9782266336000"
         },
         {
-          "title": "Tant que fleuriront les citronniers",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewya1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465762%7EILS%7E0&ps=1000",
-          "isbn": "9782264088505"
-        },
-        {
           "title": "Le brise-temp?ete",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewya1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465741%7EILS%7E0&ps=1000",
           "isbn": "9782897545062"
@@ -1664,6 +1659,11 @@
           "title": "Les mains sur le volant",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewya1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465745%7EILS%7E0&ps=1000",
           "isbn": "9782925515357"
+        },
+        {
+          "title": "Tant que fleuriront les citronniers",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewya1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465762%7EILS%7E0&ps=1000",
+          "isbn": "9782264088505"
         },
         {
           "title": "Les menteurs de Mariposa",
