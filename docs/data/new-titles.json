@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T23:40:16.934Z",
+  "generatedAt": "2026-10-30T03:05:55.382Z",
   "lists": {
     "fiction": {
       "items": [
@@ -381,6 +381,11 @@
           "isbn": "9798892427548"
         },
         {
+          "title": "Private Investigation : A Novel",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465291%7EILS%7E0&lm=MYSTERY&ps=1000",
+          "isbn": "9781454968665"
+        },
+        {
           "title": "Blood Bound : Book 1: Unlacing Secret Ties",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465772%7EILS%7E0&lm=MYSTERY&ps=1000",
           "isbn": "9781778490408"
@@ -389,11 +394,6 @@
           "title": "Death on the Books : A Blue Ridge Library Mystery",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465777%7EILS%7E0&lm=MYSTERY&ps=1000",
           "isbn": "9798892427333"
-        },
-        {
-          "title": "Private Investigation : A Novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465291%7EILS%7E0&lm=MYSTERY&ps=1000",
-          "isbn": "9781454968665"
         },
         {
           "title": "Time and Tide : A Novel",
@@ -565,14 +565,14 @@
           "isbn": "9782898322945"
         },
         {
-          "title": "The fake divination offense",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465809%7EILS%7E0&lm=ROMANCE&ps=1000",
-          "isbn": "9781250428790"
-        },
-        {
           "title": "A fall to remember",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465257%7EILS%7E0&lm=ROMANCE&ps=1000",
           "isbn": "9781837006144"
+        },
+        {
+          "title": "The fake divination offense",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465809%7EILS%7E0&lm=ROMANCE&ps=1000",
+          "isbn": "9781250428790"
         },
         {
           "title": "Awkwardly ever after : a novel",
@@ -976,14 +976,14 @@
           "isbn": "9781250861740"
         },
         {
-          "title": "Dinghai Fusheng Records (the Comic / Manhua) Vol. 3",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465780%7EILS%7E0&ps=1000",
-          "isbn": "9798891609679"
-        },
-        {
           "title": "Campfire Cooking in Another World with My Absurd Skill: Volume 5 (Manga)",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465997%7EILS%7E0&ps=1000",
           "isbn": "9781718337855"
+        },
+        {
+          "title": "Dinghai Fusheng Records (the Comic / Manhua) Vol. 3",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465780%7EILS%7E0&ps=1000",
+          "isbn": "9798891609679"
         },
         {
           "title": "Campfire Cooking in Another World with My Absurd Skill: Volume 4 (Manga)",
@@ -1601,14 +1601,14 @@
           "isbn": "9782266335997"
         },
         {
-          "title": "Nous",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewya1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465764%7EILS%7E0&ps=1000",
-          "isbn": "9782075211802"
-        },
-        {
           "title": "L'artefact du zodiaque",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewya1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465747%7EILS%7E0&ps=1000",
           "isbn": "9782221277164"
+        },
+        {
+          "title": "Nous",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewya1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465764%7EILS%7E0&ps=1000",
+          "isbn": "9782075211802"
         },
         {
           "title": "My own kind of person",
@@ -1680,6 +1680,11 @@
           "isbn": "9798228917231"
         },
         {
+          "title": "We chase shadows [sound recording]",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465627%7EILS%7E0&ps=1000",
+          "isbn": "9798217535125"
+        },
+        {
           "title": "Miss Wolcott's ghost : a novel",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465622%7EILS%7E0&ps=1000",
           "isbn": "9781250476111"
@@ -1688,11 +1693,6 @@
           "title": "The witches of Cambridge",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465626%7EILS%7E0&ps=1000",
           "isbn": "9781668169292"
-        },
-        {
-          "title": "We chase shadows [sound recording]",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465627%7EILS%7E0&ps=1000",
-          "isbn": "9798217535125"
         },
         {
           "title": "Taipei story [sound recording] : a novel",
@@ -1789,14 +1789,14 @@
           "isbn": "9781250861740"
         },
         {
-          "title": "Dinghai Fusheng Records (the Comic / Manhua) Vol. 3",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465780%7EILS%7E0&ps=1000",
-          "isbn": "9798891609679"
-        },
-        {
           "title": "Campfire Cooking in Another World with My Absurd Skill: Volume 5 (Manga)",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465997%7EILS%7E0&ps=1000",
           "isbn": "9781718337855"
+        },
+        {
+          "title": "Dinghai Fusheng Records (the Comic / Manhua) Vol. 3",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1465780%7EILS%7E0&ps=1000",
+          "isbn": "9798891609679"
         },
         {
           "title": "Campfire Cooking in Another World with My Absurd Skill: Volume 4 (Manga)",
