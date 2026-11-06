@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:33:14.113Z",
+  "generatedAt": "2026-11-06T20:38:09.655Z",
   "lists": {
     "fiction": {
       "items": [
@@ -7,6 +7,11 @@
           "title": "Eagle in the Mountain",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468134%7EILS%7E0&ps=1000",
           "isbn": "9781837867400"
+        },
+        {
+          "title": "Blue Jean Summer",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468103%7EILS%7E0&ps=1000",
+          "isbn": "9780593955901"
         },
         {
           "title": "Tempted by Deception (Standard Edition)",
@@ -17,11 +22,6 @@
           "title": "Vow of Deception (Standard Edition)",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468245%7EILS%7E0&ps=1000",
           "isbn": "9781628863000"
-        },
-        {
-          "title": "Blue Jean Summer",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468103%7EILS%7E0&ps=1000",
-          "isbn": "9780593955901"
         },
         {
           "title": "Mantras and Minotaurs",
@@ -44,24 +44,19 @@
           "isbn": "9781849163194"
         },
         {
-          "title": "'Tis the Season for Revenge",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468216%7EILS%7E0&ps=1000",
-          "isbn": "9781454965794"
-        },
-        {
           "title": "Grotesque",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466392%7EILS%7E0&ps=1000",
           "isbn": "9781998408535"
         },
         {
+          "title": "'Tis the Season for Revenge",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468216%7EILS%7E0&ps=1000",
+          "isbn": "9781454965794"
+        },
+        {
           "title": "Butcher : A Novel",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468106%7EILS%7E0&ps=1000",
           "isbn": "9798217376247"
-        },
-        {
-          "title": "Afternoon Delight",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468217%7EILS%7E0&ps=1000",
-          "isbn": "9781997918103"
         },
         {
           "title": "New Year, New Murder",
@@ -119,14 +114,14 @@
           "isbn": "9780063568266"
         },
         {
-          "title": "Goblin Market",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468116%7EILS%7E0&ps=1000",
-          "isbn": "9780593546598"
-        },
-        {
           "title": "All We Want for Christmas",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468218%7EILS%7E0&ps=1000",
           "isbn": "9781804945582"
+        },
+        {
+          "title": "Goblin Market",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468116%7EILS%7E0&ps=1000",
+          "isbn": "9780593546598"
         },
         {
           "title": "One Moore Time",
@@ -144,14 +139,19 @@
           "isbn": "9798217188819"
         },
         {
+          "title": "Curse for Christmas Past : A Novel",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468109%7EILS%7E0&ps=1000",
+          "isbn": "9798217185177"
+        },
+        {
+          "title": "Monster Hunter's Librarian",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468124%7EILS%7E0&ps=1000",
+          "isbn": "9798217188987"
+        },
+        {
           "title": "Double Shot",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468111%7EILS%7E0&ps=1000",
           "isbn": "9780786052387"
-        },
-        {
-          "title": "Empire in the Clouds",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468112%7EILS%7E0&ps=1000",
-          "isbn": "9781835414941"
         }
       ]
     },
@@ -238,11 +238,6 @@
           "isbn": "9781771967389"
         },
         {
-          "title": "Black Satin",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1467321%7EILS%7E0&ps=1000",
-          "isbn": "9781550657081"
-        },
-        {
           "title": "Russo-Ukrainian War : Follies of Empire",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468325%7EILS%7E0&ps=1000",
           "isbn": "9798896166672"
@@ -306,6 +301,11 @@
           "title": "Beginner's Shona (Chishona) with Online Audio",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468494%7EILS%7E0&ps=1000",
           "isbn": "9780781814270"
+        },
+        {
+          "title": "Bakunin : Selected Texts 1868-1875",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1467810%7EILS%7E0&ps=1000",
+          "isbn": "9780850367225"
         }
       ]
     },
@@ -347,11 +347,6 @@
           "isbn": "9781974769407"
         },
         {
-          "title": "Grand Affair : John Singer Sargent in His World",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468289%7EILS%7E0&lm=BIOGRAPHY&ps=1000",
-          "isbn": "9781250872548"
-        },
-        {
           "title": "Carroll Shelby : The Authorized Biography",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468258%7EILS%7E0&lm=BIOGRAPHY&ps=1000",
           "isbn": "9780760346464"
@@ -372,19 +367,9 @@
           "isbn": "9798895151969"
         },
         {
-          "title": "Idle in Provence : A Brief History of Thyme",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1467841%7EILS%7E0&lm=BIOGRAPHY&ps=1000",
-          "isbn": "9781400256761"
-        },
-        {
           "title": "Showbiz! : My Life As a Middle-Aged Man",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468438%7EILS%7E0&lm=BIOGRAPHY&ps=1000",
           "isbn": "9781668053706"
-        },
-        {
-          "title": "Far and Wild : Adventures of the Worldwide Vet",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468277%7EILS%7E0&lm=BIOGRAPHY&ps=1000",
-          "isbn": "9781770418752"
         },
         {
           "title": "In My Darkest Hour : A Memoir",
@@ -460,6 +445,21 @@
           "title": "I Only Shout So You Can Hear Me",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468395%7EILS%7E0&lm=BIOGRAPHY&ps=1000",
           "isbn": "9781668061473"
+        },
+        {
+          "title": "Last Temptation of Beck : The Untold Story of a Pop Messiah",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468410%7EILS%7E0&lm=BIOGRAPHY&ps=1000",
+          "isbn": "9781668043547"
+        },
+        {
+          "title": "My Damage : The Story of a Punk Rock Survivor",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468317%7EILS%7E0&lm=BIOGRAPHY&ps=1000",
+          "isbn": "9780306825804"
+        },
+        {
+          "title": "Absent Woman : The Genius of Janet Malcolm",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468354%7EILS%7E0&lm=BIOGRAPHY&ps=1000",
+          "isbn": "9781324075127"
         }
       ]
     },
@@ -491,14 +491,14 @@
           "isbn": "9781496759238"
         },
         {
-          "title": "Murder at Pellhurst Pond",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468125%7EILS%7E0&lm=MYSTERY&ps=1000",
-          "isbn": "9781496758385"
-        },
-        {
           "title": "Danger Looms",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468220%7EILS%7E0&lm=MYSTERY&ps=1000",
           "isbn": "9781966322672"
+        },
+        {
+          "title": "Murder at Pellhurst Pond",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468125%7EILS%7E0&lm=MYSTERY&ps=1000",
+          "isbn": "9781496758385"
         },
         {
           "title": "Bone Woman : A Mystery",
@@ -535,6 +535,11 @@
     "romance": {
       "items": [
         {
+          "title": "Blue Jean Summer",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468103%7EILS%7E0&lm=ROMANCE&ps=1000",
+          "isbn": "9780593955901"
+        },
+        {
           "title": "Tempted by Deception (Standard Edition)",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468244%7EILS%7E0&lm=ROMANCE&ps=1000",
           "isbn": "9781628863024"
@@ -543,11 +548,6 @@
           "title": "Vow of Deception (Standard Edition)",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468245%7EILS%7E0&lm=ROMANCE&ps=1000",
           "isbn": "9781628863000"
-        },
-        {
-          "title": "Blue Jean Summer",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468103%7EILS%7E0&lm=ROMANCE&ps=1000",
-          "isbn": "9780593955901"
         },
         {
           "title": "Mantras and Minotaurs",
@@ -563,11 +563,6 @@
           "title": "Butcher : A Novel",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468106%7EILS%7E0&lm=ROMANCE&ps=1000",
           "isbn": "9798217376247"
-        },
-        {
-          "title": "Afternoon Delight",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468217%7EILS%7E0&lm=ROMANCE&ps=1000",
-          "isbn": "9781997918103"
         },
         {
           "title": "Doomsdate : A Novel",
@@ -590,19 +585,14 @@
           "isbn": "9781953262103"
         },
         {
-          "title": "Monster Hunter's Librarian",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468124%7EILS%7E0&lm=ROMANCE&ps=1000",
-          "isbn": "9798217188987"
-        },
-        {
-          "title": "Everything She Wanted",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468221%7EILS%7E0&lm=ROMANCE&ps=1000",
-          "isbn": "9781997918141"
-        },
-        {
           "title": "Curse for Christmas Past : A Novel",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468109%7EILS%7E0&lm=ROMANCE&ps=1000",
           "isbn": "9798217185177"
+        },
+        {
+          "title": "Monster Hunter's Librarian",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468124%7EILS%7E0&lm=ROMANCE&ps=1000",
+          "isbn": "9798217188987"
         },
         {
           "title": "Bloom Town: Genesis : A Novel",
@@ -615,6 +605,11 @@
           "isbn": "9798217192526"
         },
         {
+          "title": "Love All the Way",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468121%7EILS%7E0&lm=ROMANCE&ps=1000",
+          "isbn": "9781834110424"
+        },
+        {
           "title": "End Goal : A Love, New York Novel",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468113%7EILS%7E0&lm=ROMANCE&ps=1000",
           "isbn": "9798217301416"
@@ -623,11 +618,6 @@
           "title": "Just in Time",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468118%7EILS%7E0&lm=ROMANCE&ps=1000",
           "isbn": "9780593954287"
-        },
-        {
-          "title": "Love All the Way",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468121%7EILS%7E0&lm=ROMANCE&ps=1000",
-          "isbn": "9781834110424"
         },
         {
           "title": "Just Like a Dream : A Novel",
@@ -640,9 +630,9 @@
           "isbn": "9780008827915"
         },
         {
-          "title": "Hate and Other Acts of Fiction",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468117%7EILS%7E0&lm=ROMANCE&ps=1000",
-          "isbn": "9780593952429"
+          "title": "Clearly Charmed : An Enchanting Small Town Enemies-To-lovers Romance",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468108%7EILS%7E0&lm=ROMANCE&ps=1000",
+          "isbn": "9798217270255"
         },
         {
           "title": "Now That We Don't Talk",
@@ -650,9 +640,9 @@
           "isbn": "9798217189472"
         },
         {
-          "title": "Clearly Charmed : An Enchanting Small Town Enemies-To-lovers Romance",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468108%7EILS%7E0&lm=ROMANCE&ps=1000",
-          "isbn": "9798217270255"
+          "title": "Hate and Other Acts of Fiction",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468117%7EILS%7E0&lm=ROMANCE&ps=1000",
+          "isbn": "9780593952429"
         },
         {
           "title": "Love Felt Like This",
@@ -683,6 +673,16 @@
           "title": "All we have left",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466377%7EILS%7E0&lm=ROMANCE&ps=1000",
           "isbn": "9781835417591"
+        },
+        {
+          "title": "The mistake [&eacute;dition fran&ccedil;aise]",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466971%7EILS%7E0&lm=ROMANCE&ps=1000",
+          "isbn": "9782755674910"
+        },
+        {
+          "title": "Everything she wanted",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468221%7EILS%7E0&lm=ROMANCE&ps=1000",
+          "isbn": "9781997918141"
         }
       ]
     },
@@ -734,14 +734,14 @@
           "isbn": "9780451458124"
         },
         {
-          "title": "Last Threshold: Dungeons and Dragons : Book 4 of the Neverwinter Saga",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468120%7EILS%7E0&lm=SCIFI&ps=1000",
-          "isbn": "9798217298853"
-        },
-        {
           "title": "Charon's Claw: Dungeons and Dragons : Book 3 of the Neverwinter Saga",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468107%7EILS%7E0&lm=SCIFI&ps=1000",
           "isbn": "9798217298846"
+        },
+        {
+          "title": "Last Threshold: Dungeons and Dragons : Book 4 of the Neverwinter Saga",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468120%7EILS%7E0&lm=SCIFI&ps=1000",
+          "isbn": "9798217298853"
         },
         {
           "title": "Bones of Jade, Flesh Like Ice : A Novel",
@@ -866,14 +866,14 @@
           "isbn": "9782898602115"
         },
         {
-          "title": "Les ravisseuses : roman",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466978%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9782896983476"
-        },
-        {
           "title": "The man in the watch still visits me at night",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466395%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9781968043261"
+        },
+        {
+          "title": "Les ravisseuses : roman",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466978%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9782896983476"
         },
         {
           "title": "L'&eacute;t&eacute; de tous les feux",
@@ -896,14 +896,14 @@
           "isbn": "9782898512773"
         },
         {
-          "title": "L&aacute;z&aacute;r : a novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466394%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9781668200551"
-        },
-        {
           "title": "Les grues volent vers le sud",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466967%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9782925416890"
+        },
+        {
+          "title": "L&aacute;z&aacute;r : a novel",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466394%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9781668200551"
         },
         {
           "title": "A very special episode : a novel",
@@ -1293,14 +1293,14 @@
           "isbn": "9780008793807"
         },
         {
-          "title": "First Unicorn Rider : A World of Skandar Story",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1467995%7EILS%7E0&ps=1000",
-          "isbn": "9781665981187"
-        },
-        {
           "title": "At the Flea Market",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1467966%7EILS%7E0&ps=1000",
           "isbn": "9798347112272"
+        },
+        {
+          "title": "First Unicorn Rider : A World of Skandar Story",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1467995%7EILS%7E0&ps=1000",
+          "isbn": "9781665981187"
         },
         {
           "title": "Kind of a Pig Deal",
@@ -1407,14 +1407,14 @@
           "isbn": "9798217226030"
         },
         {
-          "title": "We Are the Wright Brothers",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468065%7EILS%7E0&ps=1000",
-          "isbn": "9798217005529"
-        },
-        {
           "title": "Avatar the Last Airbender Visual Dictionary",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1467968%7EILS%7E0&ps=1000",
           "isbn": "9798217310531"
+        },
+        {
+          "title": "We Are the Wright Brothers",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjnf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468065%7EILS%7E0&ps=1000",
+          "isbn": "9798217005529"
         },
         {
           "title": "Guinness World Records : Soccer Edition 2027",
@@ -1681,6 +1681,11 @@
           "isbn": "9782898072192"
         },
         {
+          "title": "Les chevaux",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1467762%7EILS%7E0&ps=1000",
+          "isbn": "9782898072154"
+        },
+        {
           "title": "Les castors",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1467760%7EILS%7E0&ps=1000",
           "isbn": "9782898072130"
@@ -1689,11 +1694,6 @@
           "title": "Les manchots",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1467773%7EILS%7E0&ps=1000",
           "isbn": "9782898072161"
-        },
-        {
-          "title": "Les mouffettes",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1467775%7EILS%7E0&ps=1000",
-          "isbn": "9782898071621"
         }
       ]
     },
@@ -1814,6 +1814,11 @@
           "isbn": "9782073155252"
         },
         {
+          "title": "Une pension en Italie [enregistrement sonore (MP3)]",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468710%7EILS%7E0&ps=1000",
+          "isbn": "9791036646058"
+        },
+        {
           "title": "The Family Cross (CD) [sound recording]",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466336%7EILS%7E0&ps=1000",
           "isbn": "9798228917200"
@@ -1822,11 +1827,6 @@
           "title": "Fauves / [enregistrement sonore (MP3)]",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468700%7EILS%7E0&ps=1000",
           "isbn": "9791035419332"
-        },
-        {
-          "title": "Une pension en Italie [enregistrement sonore (MP3)]",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468710%7EILS%7E0&ps=1000",
-          "isbn": "9791036646058"
         },
         {
           "title": "Nous qui avons connu Solange: [enregistrement sonore (MP3)]",
@@ -1884,14 +1884,14 @@
           "isbn": "9791035419325"
         },
         {
-          "title": "The French illusion [sound recording] : a novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466337%7EILS%7E0&ps=1000",
-          "isbn": "9798217171743"
-        },
-        {
           "title": "La Locataire [enregistrement sonore (MP3)]",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468703%7EILS%7E0&ps=1000",
           "isbn": "9791036649691"
+        },
+        {
+          "title": "The French illusion [sound recording] : a novel",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466337%7EILS%7E0&ps=1000",
+          "isbn": "9798217171743"
         },
         {
           "title": "The witch [sound recording]",
