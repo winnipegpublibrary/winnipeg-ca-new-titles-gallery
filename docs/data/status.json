@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:23:15.614Z",
+  "generatedAt": "2026-11-07T19:06:38.804Z",
   "targets": [
     {
       "key": "fiction",
@@ -43,9 +43,8 @@
     },
     {
       "key": "graphicNovels",
-      "ok": false,
-      "error": "TypeError: fetch failed",
-      "keptStale": true
+      "ok": true,
+      "itemCount": 30
     },
     {
       "key": "largeType",

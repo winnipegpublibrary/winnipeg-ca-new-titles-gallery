@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:23:15.614Z",
+  "generatedAt": "2026-11-07T19:06:38.804Z",
   "lists": {
     "fiction": {
       "items": [
@@ -955,11 +955,6 @@
           "isbn": "9781647292287"
         },
         {
-          "title": "Welcome Back, Alice 2",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468210%7EILS%7E0&ps=1000",
-          "isbn": "9781647291051"
-        },
-        {
           "title": "Welcome Back, Alice 3",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468211%7EILS%7E0&ps=1000",
           "isbn": "9781647291068"
@@ -970,9 +965,9 @@
           "isbn": "9781647291044"
         },
         {
-          "title": "Moriarty the Patriot, Vol. 20",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468234%7EILS%7E0&ps=1000",
-          "isbn": "9781974765775"
+          "title": "Welcome Back, Alice 2",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468210%7EILS%7E0&ps=1000",
+          "isbn": "9781647291051"
         },
         {
           "title": "Jagaaan Volume 1",
@@ -983,6 +978,11 @@
           "title": "Jagaaan Volume 2",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468198%7EILS%7E0&ps=1000",
           "isbn": "9781419786396"
+        },
+        {
+          "title": "Moriarty the Patriot, Vol. 20",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468234%7EILS%7E0&ps=1000",
+          "isbn": "9781974765775"
         },
         {
           "title": "To Your Eternity 25",
@@ -1000,11 +1000,6 @@
           "isbn": "9781974752324"
         },
         {
-          "title": "Moriarty the Patriot, Vol. 14",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468227%7EILS%7E0&ps=1000",
-          "isbn": "9781974727988"
-        },
-        {
           "title": "Moriarty the Patriot, Vol. 15",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468228%7EILS%7E0&ps=1000",
           "isbn": "9781974734528"
@@ -1013,6 +1008,11 @@
           "title": "Moriarty the Patriot, Vol. 16",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468229%7EILS%7E0&ps=1000",
           "isbn": "9781974734535"
+        },
+        {
+          "title": "Moriarty the Patriot, Vol. 14",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468227%7EILS%7E0&ps=1000",
+          "isbn": "9781974727988"
         },
         {
           "title": "Moriarty the Patriot, Vol. 17",
@@ -1060,11 +1060,6 @@
           "isbn": "9781974720880"
         },
         {
-          "title": "Moriarty the Patriot, Vol. 5",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468238%7EILS%7E0&ps=1000",
-          "isbn": "9781974720842"
-        },
-        {
           "title": "Moriarty the Patriot, Vol. 2",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468233%7EILS%7E0&ps=1000",
           "isbn": "9781974719358"
@@ -1078,6 +1073,11 @@
           "title": "Moriarty the Patriot, Vol. 4",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468237%7EILS%7E0&ps=1000",
           "isbn": "9781974710508"
+        },
+        {
+          "title": "Moriarty the Patriot, Vol. 5",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewgn1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468238%7EILS%7E0&ps=1000",
+          "isbn": "9781974720842"
         }
       ]
     },
