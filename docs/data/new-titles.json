@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:31:21.337Z",
+  "generatedAt": "2026-11-18T22:23:32.008Z",
   "lists": {
     "fiction": {
       "items": [
@@ -7,11 +7,6 @@
           "title": "Eagle in the Mountain",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468134%7EILS%7E0&ps=1000",
           "isbn": "9781837867400"
-        },
-        {
-          "title": "Bitch : A Novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468187%7EILS%7E0&ps=1000",
-          "isbn": "9798217434749"
         },
         {
           "title": "Mantras and Minotaurs",
@@ -152,6 +147,11 @@
           "title": "Charon's Claw: Dungeons and Dragons : Book 3 of the Neverwinter Saga",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468107%7EILS%7E0&ps=1000",
           "isbn": "9798217298846"
+        },
+        {
+          "title": "Danger Looms",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468220%7EILS%7E0&ps=1000",
+          "isbn": "9781966322672"
         }
       ]
     },
@@ -776,11 +776,6 @@
     "genFiction": {
       "items": [
         {
-          "title": "Bitch : A Novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468187%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9798217434749"
-        },
-        {
           "title": "Grotesque",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466392%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9781998408535"
@@ -814,6 +809,11 @@
           "title": "Betrayal",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468186%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9781420158144"
+        },
+        {
+          "title": "Bitch : A Novel",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468187%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9798217434749"
         },
         {
           "title": "Les chemins imparfaits : roman",
@@ -1616,14 +1616,14 @@
           "isbn": "9798347109487"
         },
         {
-          "title": "The sad book",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468041%7EILS%7E0&ps=1000",
-          "isbn": "9781636552088"
-        },
-        {
           "title": "The good farmer and the worried donkey",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468000%7EILS%7E0&ps=1000",
           "isbn": "9780310163992"
+        },
+        {
+          "title": "The sad book",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjx1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468041%7EILS%7E0&ps=1000",
+          "isbn": "9781636552088"
         },
         {
           "title": "Hanna asks for help",
@@ -1899,7 +1899,7 @@
           "isbn": "9798349169335"
         },
         {
-          "title": "Peck &amp; Peck : a novel",
+          "title": "Peck &amp; Peck [sound recording] : a novel",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466335%7EILS%7E0&ps=1000",
           "isbn": "9781668193143"
         },
