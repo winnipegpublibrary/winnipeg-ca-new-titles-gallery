@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T13:40:20.088Z",
+  "generatedAt": "2026-11-20T21:59:52.881Z",
   "lists": {
     "fiction": {
       "items": [
@@ -635,14 +635,14 @@
           "isbn": "9780593873809"
         },
         {
-          "title": "All we have left",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466377%7EILS%7E0&lm=ROMANCE&ps=1000",
-          "isbn": "9781835417591"
-        },
-        {
           "title": "The mistake [&eacute;dition fran&ccedil;aise]",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466971%7EILS%7E0&lm=ROMANCE&ps=1000",
           "isbn": "9782755674910"
+        },
+        {
+          "title": "All we have left",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466377%7EILS%7E0&lm=ROMANCE&ps=1000",
+          "isbn": "9781835417591"
         },
         {
           "title": "Everything she wanted",
@@ -846,14 +846,14 @@
           "isbn": "9782896983476"
         },
         {
-          "title": "The man in the watch still visits me at night",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466395%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9781968043261"
-        },
-        {
           "title": "Des lettres grecques",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466960%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9782898602115"
+        },
+        {
+          "title": "The man in the watch still visits me at night",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466395%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9781968043261"
         },
         {
           "title": "L'&eacute;t&eacute; de tous les feux",
@@ -891,11 +891,6 @@
           "isbn": "9782925416890"
         },
         {
-          "title": "A very special episode : a novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466404%7EILS%7E0&lm=GENFICTION&ps=1000",
-          "isbn": "9780593597507"
-        },
-        {
           "title": "The turning of Sally-Mae : an African horror novel",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468208%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9781835416075"
@@ -909,6 +904,11 @@
           "title": "Dreamers of the Full Moon Coffee Shop : a novel",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468193%7EILS%7E0&lm=GENFICTION&ps=1000",
           "isbn": "9798217300464"
+        },
+        {
+          "title": "A very special episode : a novel",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ew1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466404%7EILS%7E0&lm=GENFICTION&ps=1000",
+          "isbn": "9780593597507"
         },
         {
           "title": "Le compromis de Long Island : roman",
@@ -1373,14 +1373,14 @@
           "isbn": "9782036071872"
         },
         {
-          "title": "Val&eacute;rie et la rumeur au village",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466302%7EILS%7E0&ps=1000",
-          "isbn": "9782925600039"
-        },
-        {
           "title": "Take cover",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468049%7EILS%7E0&ps=1000",
           "isbn": "9781546131779"
+        },
+        {
+          "title": "Val&eacute;rie et la rumeur au village",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewjf1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466302%7EILS%7E0&ps=1000",
+          "isbn": "9782925600039"
         },
         {
           "title": "&Agrave; la conqu&ecirc;te des quokkas",
@@ -1849,11 +1849,6 @@
           "isbn": "9791035419103"
         },
         {
-          "title": "Partita [sound recording] : a novel",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466334%7EILS%7E0&ps=1000",
-          "isbn": "9780063577572"
-        },
-        {
           "title": "Les morts ne chantent pas [enregistrement sonore (MP3)]",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468705%7EILS%7E0&ps=1000",
           "isbn": "9791035422349"
@@ -1862,6 +1857,11 @@
           "title": "Le crime du paradis [enregistrement sonore (MP3)]",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468698%7EILS%7E0&ps=1000",
           "isbn": "9791035422417"
+        },
+        {
+          "title": "Partita [sound recording] : a novel",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewa1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466334%7EILS%7E0&ps=1000",
+          "isbn": "9780063577572"
         },
         {
           "title": "Le boyfriend [enregistrement sonore (MP3)]",
