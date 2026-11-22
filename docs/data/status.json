@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:41:07.716Z",
+  "generatedAt": "2026-11-22T03:39:28.773Z",
   "targets": [
     {
       "key": "fiction",
@@ -28,9 +28,8 @@
     },
     {
       "key": "scifi",
-      "ok": false,
-      "error": "TypeError: fetch failed",
-      "keptStale": true
+      "ok": true,
+      "itemCount": 16
     },
     {
       "key": "inspirational",
