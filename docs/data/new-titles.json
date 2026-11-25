@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:22:13.634Z",
+  "generatedAt": "2026-11-25T03:12:24.697Z",
   "lists": {
     "fiction": {
       "items": [
@@ -1913,14 +1913,14 @@
     "dvd": {
       "items": [
         {
-          "title": "Kpop Demon Hunters (DVD) [DVD videorecording]",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewdvd1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466359%7EILS%7E0&ps=1000",
-          "isbn": "9798886074635"
-        },
-        {
           "title": "Frankenstein (DVD) [DVD videorecording]",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewdvd1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466348%7EILS%7E0&ps=1000",
           "isbn": "9798886074949"
+        },
+        {
+          "title": "KPop demon hunters",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewdvd1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1466359%7EILS%7E0&ps=1000",
+          "isbn": "9798886074635"
         }
       ]
     },
