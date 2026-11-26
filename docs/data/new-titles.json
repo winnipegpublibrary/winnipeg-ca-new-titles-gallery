@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:03:42.418Z",
+  "generatedAt": "2026-11-26T02:30:29.929Z",
   "lists": {
     "fiction": {
       "items": [
@@ -1735,14 +1735,14 @@
           "isbn": "9781665986076"
         },
         {
-          "title": "The silver kingdom",
-          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewya1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468044%7EILS%7E0&ps=1000",
-          "isbn": "9798347116126"
-        },
-        {
           "title": "This wild wanting",
           "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewya1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468054%7EILS%7E0&ps=1000",
           "isbn": "9781250352521"
+        },
+        {
+          "title": "The silver kingdom",
+          "link": "https://winca.ent.sirsidynix.net/client/en_US/default/search/detailnonmodal?qu=%22n2ewya1%22&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A1468044%7EILS%7E0&ps=1000",
+          "isbn": "9798347116126"
         },
         {
           "title": "Southern sun, northern star",
